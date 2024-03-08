@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.carousel-item{
+	height:32em;
+}
+
+.nav-logo{
+	height:4.5em;	
+}
+
+#navbarNav{
+    margin-right:auto;
+	margin-left:auto;
+	display:flex;
+    justify-content:end;
+}
+
+.navbar{
+	margin-right:auto;
+}
+
+.quick-nav-list{
+	display:flex;
+	justify-content:center;
+}
+
+.quick-nav-list a{
+	background-color:black;
+	color:white;
+	text-decoration:none;
+	list-style:none;
+	 padding-top:35px;
+    padding-bottom:35px;
+	padding-left:40px;
+    padding-right:40px;
+	font-size:25px;
+}
+
+.feature-icon{
+    color:black;
+}
